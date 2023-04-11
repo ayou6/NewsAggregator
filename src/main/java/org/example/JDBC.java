@@ -1,7 +1,7 @@
 package org.example;
 
 public class JDBC {
-    public static void newsAggregatordb() {
+  /*  public static void newsAggregatordb() {
         String url = "jdbc:sqlserver://localhost:1433;" + "databaseName=newsAggregator;" + "encrypt=true;"
                 + "trustServerCertificate=true";
         String user = "sa";
@@ -194,5 +194,5 @@ public class JDBC {
 
 
 }
-
+*/
 }
